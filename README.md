@@ -53,3 +53,5 @@ export default tseslint.config({
 })
 ```
 # quizapp-with-typescript
+
+\quiz-app\oneimage.png

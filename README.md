@@ -54,4 +54,4 @@ export default tseslint.config({
 ```
 # quizapp-with-typescript
 
-\oneimage.png
+![Alt text for the image](\oneimage.png)
